@@ -2,7 +2,7 @@
 
 Role-specific portfolio for Manager, Technical Support opportunities.
 
-**Live:** https://rdammala.github.io/Litera_Manager-Technical-Support/
+**Live:** https://rdammala-org.github.io/Litera_Manager-Technical-Support/
 
 ## Stack
 Vanilla HTML / CSS / JS · Google Fonts (Inter) · dark/light theme.
